@@ -1,6 +1,5 @@
-# Calculat
-Coding exercise for Calculator that performs basic arithmetic operations
-
+#Basic Calculator
+*Coding exercise*
 
 This application performs basic arithmetic operations based on the arguments passed.
 Format supported is: operand operator operand 
